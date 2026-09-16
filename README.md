@@ -29,8 +29,8 @@ A lightweight, console-based Java application designed to manage student profile
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
-   cd YOUR-REPO-NAME
+   git clone [https://github.com/H-DANIEL-DAVID/student_database_in_java.git](https://github.com/H-DANIEL-DAVID/student_database_in_java.git)
+   cd student_database_in_java
 2. **Compile the program**
 ```bash
    javac StudentSystem.java
