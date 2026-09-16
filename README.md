@@ -31,8 +31,12 @@ A lightweight, console-based Java application designed to manage student profile
    ```bash
    git clone [https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git)
    cd YOUR-REPO-NAME
-
+2. **Compile the program**
+```bash
    javac StudentSystem.java
-
+```
+3. **Run the program**
+```bash
    java StudentSystem
-   ```
+```
+
